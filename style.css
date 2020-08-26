@@ -236,6 +236,10 @@ header p {
     padding: 20px;
 }
 
+ #svg-clean-up {
+     width: 100%;
+ }
+
             /***ANIMATION SVG *********************************/
             @keyframes pchit {
                 from {opacity: 1;}
